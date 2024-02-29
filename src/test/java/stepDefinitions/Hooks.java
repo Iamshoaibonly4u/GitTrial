@@ -14,7 +14,7 @@ public class Hooks {
 			p.add_place_payload_with("Rahul", "Tamil", "Bengaluru");
 			p.user_calls_with_http_request("addPlaceAPI", "Post");
 			p.verify_place_id_created_maps_to_using("Rahul", "getPlaceAPI");
-			System.out.println("Start trial");
+			System.out.println("Start Gitstuff");
 		}
 	}
 }

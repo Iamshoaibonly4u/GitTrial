@@ -17,6 +17,7 @@ public class Hooks {
 			System.out.println("Start Gitstuff");
 			System.out.println("added new develop branch and start done some changes");
 			System.out.println("working on new develop branch by git stuff");
+			System.out.println("commiting from master through git trial");
 		}
 	}
 }
